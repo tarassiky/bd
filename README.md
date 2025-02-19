@@ -1,8 +1,8 @@
 # bd
 
-Лабораторная работа №1
+# Лабораторная работа №1
 
-Задание 1
+# Задание 1
 
 Раздел "Management":
 
@@ -68,16 +68,16 @@
 
 ![image](https://github.com/user-attachments/assets/63c7afc9-dd63-432e-8f68-c63c0fbfce92)
 
-Задание 2
+# Задание 2
 
 ![image](https://github.com/user-attachments/assets/6b92b84e-d8b6-4d5d-ab01-fb349b63bec8)
 ![image](https://github.com/user-attachments/assets/b23bd433-fdfa-4493-9c8d-ab0895e37f8a)
 
-Задание 3
+# Задание 3
 
 ![image](https://github.com/user-attachments/assets/d10ebf08-3f90-4edb-b01d-6f9eb0b3049f)
 
-Задание 4
+# Задание 4
 
 CREATE TABLE `users` (
   `id` int NOT NULL AUTO_INCREMENT,
@@ -91,7 +91,7 @@ CREATE TABLE `users` (
 
 ![image](https://github.com/user-attachments/assets/ea99be3d-759d-4a3c-9b6e-d7d99ac4bcff)   ![image](https://github.com/user-attachments/assets/3e0fd301-32c8-44dc-a898-993277d35e39)
 
-Задание 5
+# Задание 5
 
 ![image](https://github.com/user-attachments/assets/ceccc0ce-e561-4363-ab60-98e4be5c6793)   ![image](https://github.com/user-attachments/assets/e18c2ca6-147c-42eb-84d5-eb1b57a6e3fe)
 
@@ -109,20 +109,20 @@ rating: Рейтинг может отсутствовать до тех пор,
 id: Идентификатор записи всегда должен быть уникальным и ненулевым.
 created: Время создания записи должно фиксироваться автоматически при добавлении новой строки, так что оно не может быть NULL.
 
-Задание 6
+# Задание 6
 
 ![image](https://github.com/user-attachments/assets/bb08f63b-613f-46a3-8384-1cbbc254ede1)
 
 ![image](https://github.com/user-attachments/assets/78cb0afd-14c6-401a-b166-18e2c61d6c3a)   ![image](https://github.com/user-attachments/assets/92aa5c4b-fb4a-470b-9a87-427934f1a935)
 
-Задание 7
+# Задание 7
 
 ![image](https://github.com/user-attachments/assets/23f06669-fce3-4299-9d3c-110dfaef13dc)
 
 Между знаками “/*…*/” указана информация, из какой базы данных была взята информация, а также дата экспорта в данный файл.
 Далее указаны заполненные поля таким образом, что после INSERT INTO указаны атрибуты, а после VALUES указаны наполняемое, соответствующее указанным атрибутам; на каждой новой строке указывается новая строка для самой таблицы.
 
-Задание 8
+# Задание 8
 
 ![image](https://github.com/user-attachments/assets/c2b3fe6e-0904-49bd-8dda-ab1b4eb7660f)
 
@@ -144,7 +144,7 @@ CREATE TABLE `resume` (
 
 ![image](https://github.com/user-attachments/assets/2271f9d2-0c3d-452b-af0f-b8bb528c0b32)   ![image](https://github.com/user-attachments/assets/eae6a200-db93-4587-afeb-93988253b79e)
 
-Задание 9
+# Задание 9
 
 ![image](https://github.com/user-attachments/assets/04e09454-1270-49b2-a14c-7d46e78989bd)   ![image](https://github.com/user-attachments/assets/36ac180f-61b7-4e21-9600-969a128694cb)
 
@@ -161,7 +161,7 @@ CREATE TABLE `resume` (
 
 Таким образом мы получили еще одну таблицу, в которой есть несколько данных о персонажах из прошлой таблицы. Кроме того, экспериментально выяснили, что добавить информацию во вторую таблицу о людях, неотмеченных в первой таблице невозможно.
 
-Задание 10
+# Задание 10
 
 ![image](https://github.com/user-attachments/assets/9c601a7b-c9e7-48ac-89a0-fd7af089b3d7)   ![image](https://github.com/user-attachments/assets/29ac3252-14f2-4996-917f-d335f71def25)
 
